@@ -1,6 +1,6 @@
 # Project key features
 
-### Yield auto-compound
+## Yield auto-compound
 
 The auto-compound is a feature that allows users to automatically reinvest the interest earned on their cryptocurrency holdings back into the platform. This means that instead of withdrawing the interest earned, the interest is used to generate more interest over time.
 
@@ -8,7 +8,7 @@ The idea behind the auto-compound feature is to allow users to earn a higher ret
 
 When using this feature, the interest earned is automatically reinvested back into the platform, and the process repeats itself. This creates a snowball effect where the interest earned on the initial investment begins to grow exponentially.
 
-### Stop loss
+## Stop loss
 
 Stop loss is a risk management tool that is commonly used in many types of investment platforms. It is a way for investors to limit their potential losses in case of market fluctuations.
 

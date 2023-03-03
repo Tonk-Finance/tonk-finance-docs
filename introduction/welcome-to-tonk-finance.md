@@ -4,7 +4,7 @@ description: Yield Aggregation platform tailored for you
 
 # Welcome to Tonk Finance
 
-**Tonk Finance** is the first yield aggregation platform built on TON with auto-compounding vault strategies.
+**Tonk Finance** is the first yield aggregation platform built on TON with auto-compounding vault strategies to make your life simple.
 
 The dApp (decentralised application) focuses on bringing the best possible user experience in yield farming products investment as well as providing you with flexible tool suited for every farmer - from beginners to professionals. It does not require active management of your assets and offers vast range of investments to suit any DeFi user.
 
