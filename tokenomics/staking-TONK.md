@@ -4,7 +4,7 @@ Staked $TONK (sTONK) allows users to accumulate more $TONK. In order to distribu
 
 Staking allows users to lock their $TONK for a flexible period (up to 4 years) in return for a series of benefits. The contracts for TONK staking are based on the Curve Finance.
 
-## **What are the benefits of holding s**TONK**?**
+## **What are the benefits of holding sTONK?**
 
 sTONK provides holders with several benefits, including:
 
