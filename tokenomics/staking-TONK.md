@@ -1,12 +1,12 @@
 # Staking $TONK
 
-Staked $TONK (sTONK) allows users to accumulate more $TONK. In order to distribute $TONK to anyone who has staked, Tonk finance performs buy-backs from the open market.
+Staked $TONK (sTONK) allows users to accumulate more $TONK. In order to distribute $TONK to anyone who has staked, Tonk finance performs buybacks from the open market.
 
 Staking allows users to lock their $TONK for a flexible period (up to 4 years) in return for a series of benefits. The contracts for TONK staking are based on the Curve Finance.
 
 ## **What are the benefits of holding s**TONK**?**
 
-sTONK provides holders with several benefits. These benefits are:
+sTONK provides holders with several benefits, including:
 
 - Participation in governance
 - Boosted Farm Rewards of up to 30%
