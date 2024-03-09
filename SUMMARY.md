@@ -1,11 +1,13 @@
 # Table of contents
 
-- [Introduction](README.md)
-  - [Welcome to Tonk Finance](introduction/welcome-to-tonk-finance.md)
-  - [What is yield aggregator?](introduction/what-is-yield-aggregator.md)
-  - [Project key features](introduction/project-key-features.md)
-- [Tokenomics](tokenomics/tokenomics.md)
-  - [Staking-TONK](tokenomics/staking-TONK.md)
-  - [Turbo-vaults](tokenomics/turbo-vaults.md)
-  - [Amplify](tokenomics/amplify.md)
-  - [Fees](tokenomics/fees.md)
+* [Introduction](README.md)
+
+## Get started with testnet
+
+* [Recommended TON wallets](get-started-with-testnet/recommended-ton-wallets.md)
+* [How to obtain test TON?](get-started-with-testnet/how-to-obtain-test-ton.md)
+
+## Vaults
+
+* [Overview](vaults/overview.md)
+* [Auto-compound](vaults/auto-compound.md)
