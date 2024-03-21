@@ -22,5 +22,4 @@
 ***
 
 * [Twitter](https://twitter.com/TONK\_FINANCE)
-* [Announcements channel](https://t.me/tonk\_finance)
-* [Community group](https://t.me/tonk\_community)
+* [Telegram group](https://t.me/tonk\_community)
