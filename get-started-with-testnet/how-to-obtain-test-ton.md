@@ -6,3 +6,9 @@
 * Type _/get_ in the chat with the bot
 * Enter captcha
 * Enter your testnet wallet address
+
+
+
+{% hint style="info" %}
+Make sure to use testnet wallet!
+{% endhint %}

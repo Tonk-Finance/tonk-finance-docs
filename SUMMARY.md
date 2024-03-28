@@ -5,6 +5,7 @@
 ## Get started with testnet
 
 * [Recommended TON wallets](get-started-with-testnet/recommended-ton-wallets.md)
+* [How to switch wallet to testnet?](get-started-with-testnet/how-to-switch-wallet-to-testnet.md)
 * [How to obtain test TON?](get-started-with-testnet/how-to-obtain-test-ton.md)
 * [How to obtain testnet jettons](get-started-with-testnet/how-to-obtain-testnet-jettons.md)
 
