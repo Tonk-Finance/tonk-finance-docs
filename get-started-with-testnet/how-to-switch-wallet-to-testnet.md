@@ -11,7 +11,7 @@ Creating a testnet wallet in Tonkeeper is necessary step to interact with Tonk F
 1. Enter Tonkeeper wallet in browser
 2. Go to settings section and tap Tonkeeper icon multiple times until new screen pops up
 3. Switch to testnet
-4. That's it, you wallet is now in testnet mode!
+4. That's it, your wallet is now in testnet mode!
 
 ### Tonkeeper mobile App
 
