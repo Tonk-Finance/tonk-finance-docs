@@ -15,6 +15,11 @@
 * [Auto-compound](vaults/auto-compound.md)
 * [Safety Score](vaults/safety-score.md)
 
+## NFT
+
+* [Introduction to Safe Vaults](nft/introduction-to-safe-vaults.md)
+* [NFT tiers](nft/nft-tiers.md)
+
 ## FAQ
 
 * [General](faq/general.md)
