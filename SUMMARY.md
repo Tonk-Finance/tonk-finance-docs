@@ -19,6 +19,7 @@
 
 * [Introduction to Safe Vaults](nft/introduction-to-safe-vaults.md)
 * [NFT tiers](nft/nft-tiers.md)
+* [NFT Presale and Collection Adjustments](nft/nft-presale-and-collection-adjustments.md)
 
 ## FAQ
 
